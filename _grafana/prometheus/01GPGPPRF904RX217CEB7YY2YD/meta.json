@@ -1,0 +1,17 @@
+{
+	"ulid": "01GPGPPRF904RX217CEB7YY2YD",
+	"minTime": 1673439642229,
+	"maxTime": 1673445600000,
+	"stats": {
+		"numSamples": 52669,
+		"numSeries": 362,
+		"numChunks": 783
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01GPGPPRF904RX217CEB7YY2YD"
+		]
+	},
+	"version": 1
+}

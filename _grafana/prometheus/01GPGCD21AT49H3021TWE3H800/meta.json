@@ -1,0 +1,17 @@
+{
+	"ulid": "01GPGCD21AT49H3021TWE3H800",
+	"minTime": 1673366465593,
+	"maxTime": 1673373600000,
+	"stats": {
+		"numSamples": 88527,
+		"numSeries": 245,
+		"numChunks": 835
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01GPGCD21AT49H3021TWE3H800"
+		]
+	},
+	"version": 1
+}

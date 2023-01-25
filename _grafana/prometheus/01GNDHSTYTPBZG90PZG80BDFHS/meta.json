@@ -1,0 +1,30 @@
+{
+	"ulid": "01GNDHSTYTPBZG90PZG80BDFHS",
+	"minTime": 1672164002245,
+	"maxTime": 1672178400000,
+	"stats": {
+		"numSamples": 64767,
+		"numSeries": 301,
+		"numChunks": 713
+	},
+	"compaction": {
+		"level": 2,
+		"sources": [
+			"01GNAP55BVA8BS4S6BZD55G421",
+			"01GND2NP3KBPVRGF0DBMFR5Z4A"
+		],
+		"parents": [
+			{
+				"ulid": "01GNAP55BVA8BS4S6BZD55G421",
+				"minTime": 1672164002245,
+				"maxTime": 1672171200000
+			},
+			{
+				"ulid": "01GND2NP3KBPVRGF0DBMFR5Z4A",
+				"minTime": 1672171200000,
+				"maxTime": 1672178400000
+			}
+		]
+	},
+	"version": 1
+}

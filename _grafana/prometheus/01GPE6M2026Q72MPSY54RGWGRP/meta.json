@@ -1,0 +1,17 @@
+{
+	"ulid": "01GPE6M2026Q72MPSY54RGWGRP",
+	"minTime": 1673354302213,
+	"maxTime": 1673359200000,
+	"stats": {
+		"numSamples": 141342,
+		"numSeries": 331,
+		"numChunks": 1228
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01GPE6M2026Q72MPSY54RGWGRP"
+		]
+	},
+	"version": 1
+}
