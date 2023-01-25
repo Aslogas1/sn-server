@@ -7,8 +7,10 @@
     	Storing, adding, deleting data is carried out using the PostgreSQL database management system.
 # 3. Instruction.
 	To run the project locally, you need to run the program in java for execution - run the main program: impl/src/main/java/ru/skillbox/SocialNetworkApplication.java. Run docker and load image from dockerHub: docker pull andrei19386/myrepository:v.4.1.1. Run the docker container on port 8086: docker run -d -p 8086:8086 andrei19386/myrepository:v.4.1.1.
-  ![image](https://user-images.githubusercontent.com/76681433/214560195-5e3fcb4a-a6fb-4ef0-923a-ceed389aca67.png)
-  ![image](https://user-images.githubusercontent.com/76681433/214560593-1b0a9dfd-1fb2-47df-8dc5-bf21d6f0ce69.png)
+  ![image](https://user-images.githubusercontent.com/76681433/214568484-41182081-14f0-4e6c-ba16-4de66b2795a3.png)
+  ![image](https://user-images.githubusercontent.com/76681433/214568776-d64aacb8-dd88-4d8e-98a9-61230d2ac662.png)
+  ![image](https://user-images.githubusercontent.com/76681433/214568843-7fdf8b79-06b1-4e6c-8da9-2393ab95b444.png)
+  
     	Then open the browser and type into url line: http://localhost:8086/.
     	On first time, registrate yout account and then login. You can see the news:
       
