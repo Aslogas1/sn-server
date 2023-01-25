@@ -91,7 +91,8 @@ public class PostService {
         }
         switch (post.getType()) {
             case POSTED: {
-                post.setTime(LocalDateTime.now().toEpochSecond(ZoneOffset.UTC));
+                post.setTime(LocalDateTime.now().toEpochSecond((ZoneOffset
+                        .systemDefault().getRules().getOffset(LocalDateTime.now()))));
                 break;
             }
             case QUEUED: {
